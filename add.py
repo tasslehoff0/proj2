@@ -4,8 +4,9 @@ num2 = 6.3
 num4 = 4
 num5 = 3423
 
-# Add two numbers
-sum = num1 + num2
 
-# Display the sum
-print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
+for 3+d{
+
+        x+4+4+4
+
+        }
